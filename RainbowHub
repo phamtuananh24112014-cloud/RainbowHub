@@ -1,0 +1,6 @@
+Config = {
+    namescript = "TuanDeltaX V0.2",
+    logoscript = "91821125369717",
+    tacgia = "Tuansidacon"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/phamtuananh24112014-cloud/tuandelta/refs/heads/main/TuanAnhHub"))()
